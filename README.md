@@ -1,7 +1,7 @@
 # docker-laravel-demo
 
 ```
-$ git clone git@github.com:hakuba20xx/docker-laravel-demo.git
+$ git clone https://github.com/hirosi1900day/docker-laravel.git
 $ cd docker-laravel-demo
 $ docker-compose up -d --build
 $ docker-compose exec app bash
